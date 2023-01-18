@@ -8,7 +8,7 @@
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src=""/>
+  <img src="https://github.com/Lucas8901/Desafio-04-Codelandia-Formulario-Login/blob/main/gif/bandicam%202023-01-18%2019-02-19-458.gif"/>
   </div>
 
 <br>
